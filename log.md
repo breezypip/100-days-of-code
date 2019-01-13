@@ -1,30 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1-5: January 8, 2019-January 12, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Practice with using Flexbox and Bootstrap by using them to code the same layout using one of each. Began working on a more complicated layout of a full homepage using Flexbox.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I have basic knowledge of HTML & CSS, but have never used Flexbox or Bootstrap before. I was able to achieve the layouts for exercises 1-4 by following the instruction and trial/error. Struggling a little more with excercise 5.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Layout1 - Flexbox](https://codepen.io/bpipitone/pen/bOjVyv)
+ [Layout 2 - Bootstrap](https://codepen.io/bpipitone/pen/PXBVyM)
+ [Layout 3 - Flexbox](https://codepen.io/bpipitone/pen/VqGYor)
+ [Layout 4 - Bootstrap](https://codepen.io/bpipitone/pen/WLgvaQ)
+ [Layout 5 - HR Homepage with Flexbox](https://codepen.io/bpipitone/pen/MZPjeq)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 6: January 13, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Today's Progress**: Learned how to use Github so I can log my work here.
